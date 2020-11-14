@@ -16,7 +16,7 @@ class WelcomeMessageGeneratorTest extends TestCase
         $this->assertContains(
             $message, 
             [
-                "Coucou les p'tit loups !",
+                "Coucou les p'tits loups !",
                 "Salut les amis !",
                 "Kapoué !"
             ]

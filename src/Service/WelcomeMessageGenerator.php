@@ -11,7 +11,7 @@ class WelcomeMessageGenerator
     public function getRandomMessage()
     {
         $anonymousMessages = [
-            "Coucou les p'tit loups !",
+            "Coucou les p'tits loups !",
             "Salut les amis !",
             "Kapoué !"
         ];
